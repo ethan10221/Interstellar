@@ -9,7 +9,7 @@
     "rules": {
       "recommended": true
     },
-    "includes": ["**", "!**/pnpm-lock.yaml", "!**/dist/**", "!**/node_modules/**", "!**/assets/bundled/**", "!**/*.min.json", "!**/.astro/**"]
+    "includes": ["**", "!**/pnpm-lock.yaml", "!**/dist/**", "!**/node_modules/**", "!**/assets/bundled/**", "!**/*.min.json", "!**/.astro/**", "!**/static/assets/js/analytics/**"]
   },
   "formatter": {
     "indentStyle": "space",
